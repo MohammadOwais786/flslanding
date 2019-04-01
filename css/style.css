@@ -1,5 +1,5 @@
 body {
-  background-color:#212121;
+  background-color:#000;
   overflow: hidden;
   text-align:center;
 }
@@ -21,4 +21,3 @@ svg{
   visibility:hidden;
  cursor:pointer;
 }
-
