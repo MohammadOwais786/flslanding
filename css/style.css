@@ -28,8 +28,7 @@ svg{
   position: fixed;
   right: 0;
   top: 0;
-  width: 50%;
-
+  height: 100%;
 }
 
 /* Add some content at the bottom of the video/page */
