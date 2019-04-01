@@ -97,7 +97,7 @@ b.light-color{ color: #444; }
 3. LEFT SECTION
 --------------------------------- */
 
-.left-section{ float: left; width: 50%; position: relative; }
+.left-section{ float: left; width: 40%; position: relative; }
 
 .left-section .logo{ position: absolute; top: 40px; height: 30px; }
 
@@ -149,7 +149,7 @@ b.light-color{ color: #444; }
 4. RIGHT SECTION
 --------------------------------- */
 
-.right-section{ position: absolute; top: 0; bottom: 0; right: 0; width: 50%; background-size: cover; z-index: 1; }
+.right-section{ position: absolute; top: 0; bottom: 0; right: 0; width: 60%; background-size: cover; z-index: 1; }
 
 .right-section:after{ content:''; position: absolute; top: 0; bottom: 0; right: 0; left: 0; z-index: -2;
 	opacity: .3; background: linear-gradient(to right, #23074d, #cc5333); }
